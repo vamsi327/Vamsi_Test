@@ -1,0 +1,5 @@
+declare
+v1 number;
+begin
+select 1 into v1 from dual
+end;
